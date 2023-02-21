@@ -1,0 +1,35 @@
+{
+    
+    "Header": {
+        "home" : "Trang Chủ",
+        "product" : "Sản Phẩm",
+        "review" : "Nhận Xét",
+        "signin" : "Đăng Nhập",
+        "welcome" : "Chào mừng tới trang mua sắm trực tuyến"
+    },
+    "Main": {
+        "detail" : "Chi Tiết",
+        "added" : "Đã Thêm Thành Công!!",
+        "add" : "Thêm Vào Giỏ",
+        "login" : "Bạn cần đăng nhập để thực hiện"
+    },
+    "CheckOut": {
+        "Order" : "Thông Tin Đặt Hàng",
+        "Subtotal" : "Giá: ",
+        "Ship" : "Phí Vận Chuyển:",
+        "Total" : "Tổng:",
+        "CheckOut" : "Thanh Toán",
+        "Continue" : "Về Trang Sản Phẩm",
+        "Title" : " Giỏ Hàng Của Tôi",
+        "Content" : "Bạn Chưa Có Sản Phẩm Nào Trong Giỏ",
+        "Mess" : "Bạn Muốn Xóa Sản Phẩm Này ??",
+        "Pay" : "Bạn Muốn Thanh Toán ??" ,
+        "Thank" : "Cảm ơn bạn đã mua sắm!!!"
+    },
+    "Footer":{
+        "Contact" : "Thông tin liên hệ",
+        "About" : "Thông tin về chúng tôi",
+        "Address" : "Địa chỉ",
+        "Customer" : "Dịch vụ khách hàng"
+    }
+}
