@@ -1,0 +1,37 @@
+{
+    
+    "Header": {
+        "home" : "Home",
+        "product" : "Product",
+        "review" : "Reviews",
+        "signin" : "Sign In",
+        "welcome" : "Welcome to your Shopping Page"
+
+    },
+    "Main": {
+        "detail" : "Details",
+        "added" : "Added Successfully!!",
+        "add" : "Add To Cart",
+        "login" : "Need login for Add"
+
+    },
+    "CheckOut": {
+        "Order" : "Order Info",
+        "Subtotal" : "Subtotal: ",
+        "Ship" : "Shipping Cost:",
+        "Total" : "Total:",
+        "CheckOut" : "Check Out",
+        "Continue" : "Continue Shopping",
+        "Title" : " My Shopping Cart",
+        "Content" : "You have no products in cart",
+        "Mess" : "Are you want remove ??",
+        "Pay" : "Are you want payment ??" ,
+        "Thank" : "Thank your for purchased!!!"
+    },
+    "Footer":{
+        "Contact" : "Contact Us",
+        "About" : "About Us",
+        "Address" : "Address",
+        "Customer" : "Customer Service"
+    }
+}
